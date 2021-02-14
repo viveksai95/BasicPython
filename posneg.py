@@ -1,6 +1,8 @@
 #posneg
 
-n = -0
+n = int(input('enter a value'))
+
+#n = -0
 
 if n>0 :
     print("The number is pos")
